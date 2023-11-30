@@ -1,0 +1,12 @@
+
+¿Qué es JAVA SWING?
+
+- Java Swing es un conjunto de herramientas que permite a los desarrolladores de Java crear interfaces gráficas
+ para aplicaciones de escritorio. Proporciona diversos elementos, como botones y cuadros de texto, facilitando
+ la creación de interfaces interactivas
+
+¿Qué es el ordenamiento por “MÉTODO BURBUJA”?
+
+- El método de burbuja es un algoritmo sencillo que, al recorrer una lista, compara elementos consecutivos y 
+los intercambia si están en el orden equivocado. Este proceso se repite hasta que no se necesitan más intercambios,
+indicando que la lista está ordenada
